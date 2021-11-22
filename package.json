@@ -1,0 +1,14 @@
+{
+  "name": "calculator-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tgbaldo/calculator-api.git",
+  "author": "Tiago Baldo <tgbaldo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
