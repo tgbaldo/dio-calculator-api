@@ -10,4 +10,5 @@ Projeto extremamente simples usado na mentoria de integração de aplicações N
 Para rodar:
 
 $ docker-compose up
+
 endpoint: http://localhost:4000
