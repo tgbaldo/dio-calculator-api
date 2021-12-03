@@ -8,4 +8,6 @@ Projeto extremamente simples usado na mentoria de integração de aplicações N
 - CI/CD com GithubActions e AWS
 
 Para rodar:
-docker-compose up
+
+$ docker-compose up
+endpoint: http://localhost:4000
