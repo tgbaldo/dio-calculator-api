@@ -6,3 +6,6 @@ Projeto extremamente simples usado na mentoria de integração de aplicações N
 - Node 16
 - Docker com Linux Alpine
 - CI/CD com GithubActions e AWS
+
+Para rodar:
+docker-compose up
